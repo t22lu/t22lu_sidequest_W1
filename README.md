@@ -14,4 +14,4 @@ t22lu
 
 ## Description
 
-## This projects shows a coloured square
+This projects shows a coloured square
